@@ -35,4 +35,4 @@
 
 ## Скриншот интерфейса
 
-![Интерфейс](./)
+![Интерфейс](https://github.com/s1zykh/employee-accounting/blob/main/src/assets/screenshot.png)
